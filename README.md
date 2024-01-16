@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with velocity at documentation
 - 💬 Ask me about android developement related stuff
 - 📫 How to reach me: @twitter
-- 😄 2023 Goals: Contribute more to open source project
+- 😄 2024 Goals: Contribute more to open source project
 - ⚡ Fun fact: I love to design and structure the complex thing.
 -->
