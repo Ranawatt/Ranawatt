@@ -1,6 +1,6 @@
 ### Hi Dreamers 👋
 
-- 🔭 I’m currently working on Android Open Source Platform
+- 🔭 I’m currently working on Android Open Source Platform also along with that contributing on RUST opensource projects.
 - 🌱 I’m currently learning about Soong and Bazel Build System.
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with velocity at documentation
