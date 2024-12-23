@@ -7,5 +7,6 @@
 - 💬 Ask me about android and rust developement related stuff
 - 📫 How to reach me: @twitter
 - 😄 2024 Goals: Contribute more to open source project
+- :) Leetcode Scorecard : - ![image](https://github.com/user-attachments/assets/ddb9d998-b171-4d2b-b6d5-45e3b41cda6b)
 - ⚡ Fun fact: I love to design and structure the complex thing.
 -->
