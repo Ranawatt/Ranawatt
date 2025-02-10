@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with velocity at documentation
 - 💬 Ask me about android and rust developement related stuff
 - 📫 How to reach me: @twitter
-- 😄 2024 Goals: Contribute more to open source project
+- 😄 2025 Goals: Contribute more to open source project and embedded software developement.
 - 😄 2024 Leetcode Scorecard : - https://leetcode.com/rewind/2024/?source=su_koder&utm_source=rewind_24_share
 - ⚡ Fun fact: I love to design and structure the complex thing.
 -->
