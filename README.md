@@ -1,6 +1,6 @@
 ### Hi Dreamers & Achievers 👋
 
-- 🔭 Currently working on Android Open Source Platform also along with contributing on RUST open source projects.
+- 🔭 Currently working on Android Open Source Platform also along with contributing on RUST projects.
 - 🌱 I’m currently learning about Soong and Bazel Build System.
 - 🛠️ Specialized in Jetpack Compose, Kotlin, building performant and scalable mobile apps
 - 👯 I’m looking to collaborate on youtube
