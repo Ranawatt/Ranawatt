@@ -11,3 +11,9 @@
 - 😄 2025 Goals: Contribute more to open source project and embedded software developement.
 - 🚀 2024 Leetcode Scorecard : - https://leetcode.com/rewind/2024/?source=su_koder&utm_source=rewind_24_share
 - ⚡ Fun fact: I love to design large scale system and structure the complex thing.
+
+
+[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
