@@ -1,5 +1,6 @@
 ### Hi Dreamers & Achievers 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There;I+am+Sugandh+Ranawatt)](https://git.io/typing-svg)
 - 🔭 Currently working on Android Open Source Platform also along with contributing on RUST projects.
 - 🌱 I’m currently learning about Soong and Bazel Build System.
 - 🛠️ Specialized in Jetpack Compose, Kotlin, building performant and scalable mobile apps
