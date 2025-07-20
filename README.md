@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks
 ![Kotlin](https://img.shields.io/badge/KOTLIN-E0234E?style=flat-square&logo=Kotlin)
