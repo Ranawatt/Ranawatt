@@ -13,7 +13,9 @@
 - ⚡ Fun fact: I love to design large scale system and structure the complex thing.
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-45236-E0234E?style=flat-square">
+</p>
 ## 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks
