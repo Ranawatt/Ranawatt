@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-45236-E0234E?style=flat-square">
+  <img src="https://img.shields.io/badge/Profile%20Views-45,236-E0234E?style=flat-square">
 </p>
 ## 🛠️ Tech Stack
 
