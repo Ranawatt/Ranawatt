@@ -9,7 +9,7 @@
 - 📫 How to reach me: @twitter
 - 🌍 Open to global remote roles
 - 😄 2026 Goals: Contribute more to open source project and embedded software developement.
-- 🚀 2024 Leetcode Scorecard : -https://leetcode.com/rewind/2025/?source=su_koder&utm_source=rewind_25_share
+- 🚀 2025 Leetcode Scorecard : -https://leetcode.com/rewind/2025/?source=su_koder&utm_source=rewind_25_share
 - 🚀 2024 Leetcode Scorecard : - https://leetcode.com/rewind/2024/?source=su_koder&utm_source=rewind_24_share
 - ⚡ Fun fact: I love to design large scale system and structure the complex thing.
 
