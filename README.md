@@ -41,6 +41,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 
 #### 🛠️ Tools & Platforms
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-DC382D?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -50,6 +51,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
 
 #### 🧰 Dev Tools
+
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-7952B3?style=flat-square&logo=android)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Rust Rover](https://img.shields.io/badge/RustRover-0170FE?style=flat-square&logo=rust)
